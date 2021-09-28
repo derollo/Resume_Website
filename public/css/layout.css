@@ -328,8 +328,8 @@ ul#nav li.current a {
 
 #portfolio {
   background: #ebeeee;
-  padding-top: 90px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 #portfolio h1 {
   font: 15px/24px "opensans-semibold", sans-serif;
@@ -545,7 +545,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-  background: #1f1f1f url(../images/testimonials-bg.jpg) no-repeat center center;
+  background: #1f1f1f url(../images/header-background.jpg) no-repeat center center;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   background-attachment: fixed;
