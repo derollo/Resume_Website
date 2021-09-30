@@ -17,7 +17,7 @@
       "zip": "20720"
     },
     "website": "http://www.tarlsson.com",
-    "resumedownload": "https://drive.google.com/uc?export=pdf&id=1JZ_9_koC-W0jVg39lGh8Jd0hwJzv8kqn",
+    "resumedownload": "https://drive.google.com/file/d/1xwpj82042xmS4fP8VB-QnVJgl4Cso9Lo/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -73,9 +73,9 @@
         "image": "html5.png"
       },
       {
-        "name": "CSS",
-        "description": "This kinda goes hand in hand with HTML, my first experience with styling HTML. Goes hand in hand with HTML experience.",
-        "image": "css2.png"
+        "name": "PHP",
+        "description": "PHP was one of the hardest ones to learn for me, I used PHP back in 2018-2019 when me and my friends had a gameserver",
+        "image": "php.png"
       },
       {
         "name": "React Js",
@@ -86,12 +86,6 @@
         "name": "Python",
         "description": "Python was one of the first actuall languages that I worked with at school back in 2016. One of the easier languages that I've played around with.",
         "image": "python.png"
-      },
-
-      {
-        "name": "",
-        "description": "",
-        "image": ""
       },
       {
         "name": "Lua",

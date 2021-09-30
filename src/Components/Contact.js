@@ -38,7 +38,7 @@ class Contact extends Component {
 						   {name}<br />
 						   {city} <br />
 						   {state}, {zip}<br />
-						   <span>{phone}</span><br />
+						   <span><a href="tel:+358401242237">{phone}</a></span><br />
                <span><a href="mailto:tbakerx@gmail.com">{email}</a></span>
 					   </p>
 				   </div>
