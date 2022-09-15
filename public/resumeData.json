@@ -33,6 +33,11 @@
         "name": "github",
         "url": "https://github.com/derollo",
         "className": "fa fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/thomas-karlsson-448b65223/",
+        "className": "fa fa-linkedin"
       }
     ]
   },
