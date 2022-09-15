@@ -12,7 +12,7 @@ class Header extends Component {
       var networks = this.props.data.social.map(function (network) {
         return (
           <li key={network.name}>
-            <a href={network.url}>
+            <a href={network.url, '_blank'}>
               <i className={network.className}></i>
             </a>
           </li>
